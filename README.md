@@ -1,2 +1,2 @@
-# dw_matrix_car
-Prognozowanie cen samochodów
+# Prognozowanie cen samochodów
+Dataworkshop - projekt Matrix - część 2.
